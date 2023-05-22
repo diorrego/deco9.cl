@@ -54,7 +54,7 @@ export const getServerSideProps = async () => {
   return {
     props: {
       image: {
-        url: 'https://ik.imagekit.io/dior7woku/woku-landing/SEO/landingPreviewV2.webp?updatedAt=1682561984313',
+        url: 'https://ik.imagekit.io/dior7woku/deco9_cl/previewPhoto.webp?updatedAt=1684772578682',
       },
     },
   };
